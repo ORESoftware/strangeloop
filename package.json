@@ -1,0 +1,23 @@
+{
+  "name": "strangeloop",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORESoftware/strangeloop.git"
+  },
+  "keywords": [
+    "strange",
+    "loop"
+  ],
+  "author": "Olegzandr Denman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ORESoftware/strangeloop/issues"
+  },
+  "homepage": "https://github.com/ORESoftware/strangeloop#readme"
+}
