@@ -1,7 +1,7 @@
 {
   "name": "strangeloop",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.10001",
+  "description": "Utils for node.js",
   "main": "index.js",
   "scripts": {
     "test": "suman"
